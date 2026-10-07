@@ -31,3 +31,7 @@ A responsive web application that allows users to search for any city and instan
 ## Screenshots
 
 ![Weather Dashboard](images/weather_dashboard.png)
+
+## Live Demo
+
+[View Weather Dashboard](https://jeffroca7-ops.github.io/weather-dashboard/)
